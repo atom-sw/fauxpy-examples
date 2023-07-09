@@ -1,3 +1,5 @@
+>>>>> THIS REPOSITORY WILL BE REMOVED <<<<<
+
 # 1. FauxPy Examples
 
 ![GitHub](https://img.shields.io/github/license/atom-sw/fauxpy-examples)
