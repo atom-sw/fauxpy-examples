@@ -1,4 +1,4 @@
->>>>> THIS REPOSITORY WILL BE REMOVED <<<<<
+----- THIS REPOSITORY WILL BE REMOVED -----
 
 # 1. FauxPy Examples
 
